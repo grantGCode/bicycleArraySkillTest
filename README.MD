@@ -1,4 +1,4 @@
-#skillTestInstructions
+skillTestInstructions
 * Remove the string 'bicycle' from the the containerArray
  * declare this string into a variable
  * for example let item = "string"
